@@ -1,1 +1,3 @@
-# random
+# [sand](sand.md)
+
+a sketchbook
