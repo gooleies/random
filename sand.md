@@ -1,5 +1,3 @@
-## 1000 Char UI Framework
-
 ```js
 // Challenge: Create a UI framework in 1000 chars or less :)~
 
